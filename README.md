@@ -10,33 +10,21 @@ I am a hardworking and dedicated university student who loves computers in their
 
 ## Education
 
-<h3> BSc Honours Computer Science </h3>
-
-⌚ Sep 2018 - Present
-
- 📍 Lassonde School of Engineering, York University, Toronto
- 
-<h3> High School Diploma </h3>
-
-⌚ Sep 2014 - June 2018
-
- 📍 William Lyon Mackenzie CI, Toronto
- 
- <table>
-<thead>
-  <tr>
-    <th>BSc Honours Computer Science</th>
-    <th>          High School Diploma          </th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>⌚ Sep 2018 - Present</td>
-    <td>⌚ Sep 2014 - June 2018</td>
-  </tr>
-  <tr>
-    <td> 📍 Lassonde School of Engineering, York University, Toronto</td>
-    <td> 📍 William Lyon Mackenzie CI, Toronto</td>
-  </tr>
-</tbody>
+<table>
+ <thead>
+   <tr>
+     <th>BSc Honours Computer Science</th>
+     <th>          High School Diploma          </th>
+   </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <td>⌚ Sep 2018 - Present</td>
+     <td>⌚ Sep 2014 - June 2018</td>
+   </tr>
+   <tr>
+     <td> 📍 Lassonde School of Engineering, York University, Toronto</td>
+     <td> 📍 William Lyon Mackenzie CI, Toronto</td>
+   </tr>
+ </tbody>
 </table>
