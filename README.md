@@ -13,7 +13,7 @@ I am a hardworking and dedicated university student who loves computers in their
 <table>
  <thead>
    <tr>
-     <th>     BSc Honours Computer Science     </th>
+     <th>BSc Honours Computer Science</th>
      <th>          High School Diploma          </th>
    </tr>
  </thead>
@@ -28,3 +28,9 @@ I am a hardworking and dedicated university student who loves computers in their
    </tr>
  </tbody>
 </table>
+
+## Experience
+
+
+
+## [Download My Résumé](https://github.com/ksmarty/ksmarty/raw/main/resume.pdf)
