@@ -10,9 +10,14 @@ I am a hardworking and dedicated university student who loves computers in their
 
 ## Education
 
-### BSc Computer Science
-###### In Progress
+### BSc Honours Computer Science
 
 ⌚ Sep 2018 - Present
 
  📍 Lassonde School of Engineering, York University, Toronto
+ 
+### High School Diploma
+
+⌚ Sep 2014 - June 2018
+
+ 📍 William Lyon Mackenzie CI, Toronto
