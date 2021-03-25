@@ -31,6 +31,72 @@ I am a hardworking and dedicated university student who loves computers in their
 
 ## Experience
 
+### University Co-op Placement
 
+⌚ Jan 2021 - Present
+
+ 📍 Sanofi Pasteur, Toronto
+
+I am currently interning at Sanofi Pastuer, a global leader in vaccine manufacturing. As a member of the Quality Control, Data Logistics and Support department, I am assisting my team in modernizing internal tools and improving workflows for maximum efficiency.
+
+---
+
+### Highschool Co-op Placement
+
+⌚ Feb 2018 - May 2018
+
+ 📍 Grip Limited, Toronto
+
+I had a four month co-op placement at a mid-sized advertising agency. During this time, I worked in both the technology and video production departments. I was able to code and develop a tool that would be used internally by the marking department to ingest vendor spreadsheets. This experience provided me with a better understanding of corporate structure and how a business functions.
+
+---
+
+### Minecraft Instructor
+
+⌚ Sep 2019 - June 2020
+
+ 📍 Robbins Hebrew Academy, Toronto
+
+I taught Minecraft to a group of fifteen elementary-age students in a weekly after-school program. In addition, I prepared lesson plans to demonstrate different aspects of the game and develop non-digital, transferrable skills for the students.
+
+---
+
+### Senior Camp Counsellor
+
+⌚ Summers 2016 - 2019
+
+ 📍 Camp Green Acres, Markham
+
+I worked as a staff member with young children ranging from 5 to 8 years of age in a fun, challenging, and supportive environment. In my second and third summers I was given the additional responsibility of being a bus captain; overseeing 3 staff members. This leadership experience afforded me the opportunity to understand team management and collaboration.
+
+---
+
+### Computer Programming Team
+
+⌚ Oct 2016 - June 2017
+
+ 📍 William Lyon Mackenzie CI, North York
+
+I led a group of my peers in our school's coding competitions. We placed top 5 in multiple events. In addition, I was selected to be a coach for the visiting grade 7 & 8 students when they participated in our annual Science & Engineering Olympics.
+
+---
+
+### President of Accounting & Finance Club
+
+⌚ Oct 2017 - June 2018
+
+ 📍 William Lyon Mackenzie CI, North York
+
+I presented seminars on various forms of investment including cryptocurrencies and how to safely invest as markets can be very volatile.
+
+---
+
+### Head Engineer for Engineering Club
+
+⌚ Oct 2017 - June 2018
+
+ 📍 William Lyon Mackenzie CI, North York
+
+As an integral team member, I advised on the programming of our weekly activities to ensure the events were fun and informative for our members.
 
 ## [Download My Résumé](https://github.com/ksmarty/ksmarty/raw/main/resume.pdf)
