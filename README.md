@@ -10,14 +10,20 @@ I am a hardworking and dedicated university student who loves computers in their
 
 ## Education
 
-### BSc Honours Computer Science
+<div style="display: flex; width:90%; height:100px; background-color:Gray;">
+<div style="flex-basis: 100%;">
+<h3> BSc Honours Computer Science </h3>
 
 ⌚ Sep 2018 - Present
 
  📍 Lassonde School of Engineering, York University, Toronto
  
-### High School Diploma
+</div>
+<div style="flex-basis: 100%;">
+<h3> High School Diploma </h3>
 
 ⌚ Sep 2014 - June 2018
 
  📍 William Lyon Mackenzie CI, Toronto
+</div>
+</div>
