@@ -26,7 +26,7 @@ I am a hardworking and dedicated university student who loves computers in their
 <thead>
   <tr>
     <th>BSc Honours Computer Science</th>
-    <th>High School Diploma</th>
+    <th>     High School Diploma     </th>
   </tr>
 </thead>
 <tbody>
