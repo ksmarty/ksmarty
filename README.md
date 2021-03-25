@@ -26,7 +26,7 @@ I am a hardworking and dedicated university student who loves computers in their
 <thead>
   <tr>
     <th>BSc Honours Computer Science</th>
-    <th>     High School Diploma     </th>
+    <th>          High School Diploma          </th>
   </tr>
 </thead>
 <tbody>
@@ -35,8 +35,8 @@ I am a hardworking and dedicated university student who loves computers in their
     <td>⌚ Sep 2014 - June 2018</td>
   </tr>
   <tr>
-    <td>📍 Lassonde School of Engineering, York University, Toronto</td>
-    <td>📍 William Lyon Mackenzie CI, Toronto</td>
+    <td> 📍 Lassonde School of Engineering, York University, Toronto</td>
+    <td> 📍 William Lyon Mackenzie CI, Toronto</td>
   </tr>
 </tbody>
 </table>
