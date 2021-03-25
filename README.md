@@ -99,4 +99,6 @@ I presented seminars on various forms of investment including cryptocurrencies a
 
 As an integral team member, I advised on the programming of our weekly activities to ensure the events were fun and informative for our members.
 
-## [Download My Résumé](https://github.com/ksmarty/ksmarty/raw/main/resume.pdf)
+---
+
+## [![Download My Résumé](https://img.shields.io/badge/%E2%80%8B-Download%20My%20R%C3%A9sum%C3%A9-brightgreen?logo=docusign)](https://github.com/ksmarty/ksmarty/raw/main/resume.pdf)
