@@ -4,6 +4,8 @@
 # Hi, I'm Kyle 🖥️/🍳
 Web Developer | Software Engineer | Chef
 
+[![Download My Résumé](https://img.shields.io/badge/&#8203;-Download%20My%20R%C3%A9sum%C3%A9-brightgreen?logo=docusign)](https://github.com/ksmarty/ksmarty/raw/main/resume.pdf)
+
 ## About me 
 
 I am a hardworking and dedicated university student who loves computers in their entirety. Computers allow me to be creative, problem solve, and express myself in many facets including graphic and web design as well as coding. I am self-taught in Photoshop, Dreamweaver, Premiere Pro, InDesign, HTML, CSS, JavaScript, Python, and Microsoft Office Suite. Formally, I've learnt Java, Adobe Animate, Android Development, and Turing. In my spare time, I decompress by cooking, woodworking, and cycling. I also love to travel around the world and experience different cultures.
@@ -100,5 +102,3 @@ I presented seminars on various forms of investment including cryptocurrencies a
 As an integral team member, I advised on the programming of our weekly activities to ensure the events were fun and informative for our members.
 
 ---
-
-## [![Download My Résumé](https://img.shields.io/badge/%E2%80%8B-Download%20My%20R%C3%A9sum%C3%A9-brightgreen?logo=docusign)](https://github.com/ksmarty/ksmarty/raw/main/resume.pdf)
