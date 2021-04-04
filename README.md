@@ -102,3 +102,34 @@ I presented seminars on various forms of investment including cryptocurrencies a
 As an integral team member, I advised on the programming of our weekly activities to ensure the events were fun and informative for our members.
 
 ---
+
+## My Projects
+
+### [👨‍🍳 Cumin](https://cumin.kyleschwartz.ca/)
+
+A simple cloud-based recipe manager built using Svelte 3 and Bootstrap 4.
+
+---
+
+### [⌨️ CodeSnips](https://codesnips.kyleschwartz.ca/)
+
+A useful collection of array generators, because no one can remember every country code.
+
+---
+
+### [🥄 Spork](https://spork.kyleschwartz.ca/)
+
+A calculator for converting from volume to mass for common kitchen ingredients.
+
+---
+
+## Goals
+
+### 1. Be More Professional
+
+Earlier in the year, I set a goal for myself to use only formal language and to cut coloquialisms from emails. Since setting that goal, other members of my team have taken notice and complimented me on the improvement.
+
+### 2. Understand The Database
+
+For my first project in my co-op placement, I was tasked with understanding and mapping out a database that was used internally. Although not a complete understanding, I have a much greater grasp of how different members of the team utilize it. With this knowledge I can begin to steamline workflows and reduce that amount of work for the team.
+
