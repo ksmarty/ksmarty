@@ -141,4 +141,4 @@ For my first project in my co-op placement, I was tasked with understanding and 
 
 ## Why Me
 
-[![Why Me](https://img.youtube.com/vi/dmxdibjNJEY/0.jpg)](https://www.youtube.com/watch?v=dmxdibjNJEY)
+[![2021-04-09_21-01-58](https://user-images.githubusercontent.com/2217505/114253382-f675b800-9977-11eb-86a6-958f97362263.png)](https://www.youtube.com/watch?v=dmxdibjNJEY)
