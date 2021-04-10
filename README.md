@@ -10,6 +10,12 @@ Web Developer | Software Engineer | Chef
 
 I am a hardworking and dedicated university student who loves computers in their entirety. Computers allow me to be creative, problem solve, and express myself in many facets including graphic and web design as well as coding. I am self-taught in Photoshop, Dreamweaver, Premiere Pro, InDesign, HTML, CSS, JavaScript, Python, and Microsoft Office Suite. Formally, I've learnt Java, Adobe Animate, Android Development, and Turing. In my spare time, I decompress by cooking, woodworking, and cycling. I also love to travel around the world and experience different cultures.
 
+## Contact Me
+
+Email: [kyle@kyleschwartz.ca](kyle@kyleschwartz.ca)
+
+Twitter: [@\_KyleJS](https://twitter.com/_kylejs)
+
 ## Education
 
 <table>
@@ -133,3 +139,6 @@ Earlier in the year, I set a goal for myself to use only formal language and to 
 
 For my first project in my co-op placement, I was tasked with understanding and mapping out a database that was used internally. Although not a complete understanding, I have a much greater grasp of how different members of the team utilize it. With this knowledge I can begin to steamline workflows and reduce that amount of work for the team.
 
+## Why Me
+
+[![Why Me](https://img.youtube.com/vi/dmxdibjNJEY/0.jpg)](https://www.youtube.com/watch?v=dmxdibjNJEY)
