@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="./avatar.svg">
+<img align="right" width="400" height="450" src="./avatar.svg">
 
 
 # Hi, I'm Kyle 🖥️/🍳
