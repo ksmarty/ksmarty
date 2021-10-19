@@ -1,7 +1,7 @@
 <img align="right" width="400" height="450" src="./avatar.svg">
 
 
-# Hi, I'm Kyle 🖥️/🍳
+# Hi, I'm Kyle 🖥️ / 🍳
 Web Developer | Software Engineer | Chef
 
 ## About me 
